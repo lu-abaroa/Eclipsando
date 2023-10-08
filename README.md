@@ -3,8 +3,6 @@
 ## Acerca de
 Este proyecto está diseñado para el NASA Space Apps Challenge Rosario 2023.
 
-Para más información, referirse a:
-
 Demo: https://www.canva.com/design/DAEp1mMifYk/-1esY_T8jGHEzi2v-nV4ng/view?utm_content=DAEp1mMifYk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## General
