@@ -7,6 +7,17 @@ Para más información, referirse a:
 
 Demo: https://www.canva.com/design/DAEp1mMifYk/-1esY_T8jGHEzi2v-nV4ng/view?utm_content=DAEp1mMifYk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
+## General
+Nuestro trabajo consiste en una propuesta didáctica llamada “Eclipsando”, destinada a niños de 9 años en adelante. Se basa en un juego de mesa que, siguiendo una historia busca explicar el funcionamiento de los eclipses; acompañado de una página web que provee la información necesaria para resolver los desafíos y experimentos propuestos a lo largo del recorrido del juego.
+
+## Objetivos
+Buscamos que logren entender cómo se producen los eclipses y por qué es importante saber de ellos a través de los juegos y la experimentación, que encuentren en “Eclipsando” una herramienta de aprendizaje divertida. 
+
+## Idea del juego
+Comienza relatando la historia de dos pequeños que sueñan con ser astronautas, lo desean con tanta fuerza que un día una estrella, llamada Endy, los escucha y decide ayudarlos a entender un evento astronómico que pronto va a suceder. Los llevará a recorrer uno de los eventos astronómicos más fascinantes que nos ofrece el universo visible: los eclipses; donde se encontrarán con diferentes desafíos para lograr ver el eclipse.
+
+
+
 ## Contenido de la caja
 * 2 fichas de astronautas (rojo y azul)
 * 1 dado de 4 caras: 0,1, 2 y 3
