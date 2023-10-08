@@ -16,8 +16,6 @@ Buscamos que logren entender cómo se producen los eclipses y por qué es import
 ## Idea del juego
 Comienza relatando la historia de dos pequeños que sueñan con ser astronautas, lo desean con tanta fuerza que un día una estrella, llamada Endy, los escucha y decide ayudarlos a entender un evento astronómico que pronto va a suceder. Los llevará a recorrer uno de los eventos astronómicos más fascinantes que nos ofrece el universo visible: los eclipses; donde se encontrarán con diferentes desafíos para lograr ver el eclipse.
 
-
-
 ## Contenido de la caja
 * 2 fichas de astronautas (rojo y azul)
 * 1 dado de 4 caras: 0,1, 2 y 3
@@ -36,6 +34,14 @@ Empieza el primer equipo: tira el dado, pudiendo obtener un puntaje de 0, 1, 2 o
 De esta forma, turno a turno, ambos equipos avanzan por sus respectivos caminos enfrentándose en una carrera donde el primero que llegue a la meta debe demostrar lo aprendido alineando en la maqueta la tierra, la luna y el sol para formar su eclipse y así, ganar el juego.
 
 También puede jugarse en solitario, eligiendo con qué eclipse arrancar, y una vez terminado este recorrido, deberá seguirse con el otro (esto es, si se comenzó con el eclipse lunar, al finalizar deberá proceder con el eclipse solar, y viceversa).
+
+## Proyecto a futuro
+Creemos que este proyecto tiene potencial de seguir creciendo.
+Algunas mejoras pòdrían ser:
+* Que los personajes puedan personalizarse a gusto de los jugadores;
+* la creación una versión digital del juego para Android/iOS así pueda resultar accesible para todo el público;
+* una actualización periódica con desafíos y experimentos nuevos así como información sobre próximos eventos astronómicos;
+* generalización del concepto de juego para explicar otros temas con recursos de la NASA y otras fuentes científicas.
 
 
 ## Recursos
