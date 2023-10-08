@@ -16,6 +16,13 @@ Buscamos que logren entender cómo se producen los eclipses y por qué es import
 ## Idea del juego
 Comienza relatando la historia de dos pequeños que sueñan con ser astronautas, lo desean con tanta fuerza que un día una estrella, llamada Endy, los escucha y decide ayudarlos a entender un evento astronómico que pronto va a suceder. Los llevará a recorrer uno de los eventos astronómicos más fascinantes que nos ofrece el universo visible: los eclipses; donde se encontrarán con diferentes desafíos para lograr ver el eclipse.
 
+## Beneficios de jugar con “ECLIPSANDO”
+Algunos de ellos son:
+* Las familias pueden pasar tiempo de calidad jugando y aprendiendo al mismo tiempo, mejorando la relación entre ellos;
+* los niños pueden aumentar su habilidad para resolver desafíos, al igual que experimentar y resolver problemas por sus propios medios;
+* mejora la capacidad de trabajo en equipo, incluso bajo presión
+
+
 ## Contenido de la caja
 * 2 fichas de astronautas (rojo y azul)
 * 1 dado de 4 caras: 0,1, 2 y 3
@@ -37,7 +44,7 @@ También puede jugarse en solitario, eligiendo con qué eclipse arrancar, y una 
 
 ## Proyecto a futuro
 Creemos que este proyecto tiene potencial de seguir creciendo.
-Algunas mejoras pòdrían ser:
+Algunas mejoras podrían ser:
 * Que los personajes puedan personalizarse a gusto de los jugadores;
 * la creación una versión digital del juego para Android/iOS así pueda resultar accesible para todo el público;
 * una actualización periódica con desafíos y experimentos nuevos así como información sobre próximos eventos astronómicos;
